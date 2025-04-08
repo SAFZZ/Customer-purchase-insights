@@ -54,7 +54,7 @@ customer-purchase-insights/ │ ├── data/ │ ├── raw_customers.csv 
 
    streamlit run streamlit_app/app.py
 
-📊 KPIs Included
+### 📊 KPIs Included
    
    Total Purchase Amount
 
@@ -66,7 +66,7 @@ customer-purchase-insights/ │ ├── data/ │ ├── raw_customers.csv 
 
    Customer Retention Categories
 
-🧠 What I Learned
+### 🧠 What I Learned
   
   Building a real-world ETL pipeline from scratch
 
@@ -80,7 +80,7 @@ customer-purchase-insights/ │ ├── data/ │ ├── raw_customers.csv 
 
   Presenting data insights for decision-making
 
-💡 Future Improvements
+### 💡 Future Improvements
   
   Automate data refresh using Airflow
 
@@ -88,7 +88,7 @@ customer-purchase-insights/ │ ├── data/ │ ├── raw_customers.csv 
 
   Deploy dashboard using Docker & cloud
 
-🙋‍♀️ About Me
+### 🙋‍♀️ About Me
 
 I'm an aspiring Data Engineer with a passion for transforming raw data into meaningful insights.
 Currently working at a leading MNC and building my skills for impactful roles in Data Technology.
